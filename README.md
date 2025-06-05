@@ -8,4 +8,4 @@
 ---
 # Реализация проекта:
 24.10 – создана структура проекта, добавлены описания для разделов. 
-https://www.figma.com/design/cQOdwOFevem0pJUNEdbq6d/Untitled?node-id=0-1&t=EjVb0qgXBDoveMLJ-1
+https://www.figma.com/design/R48rvcQguaaO85y1Lq8O1N/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8?node-id=0-1&t=rdHgdLDpe8ars7Sq-1
